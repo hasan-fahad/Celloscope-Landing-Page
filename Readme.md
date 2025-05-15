@@ -2,6 +2,8 @@
 
 A modern, responsive landing page for Celloscope Limited showcasing services, features, testimonials, and company information.
 
+### Live Link: https://celloscope-landing-page.netlify.app/
+
 ## Features
 
 - **Responsive Design**: Works on all devices (desktop, tablet, mobile)
